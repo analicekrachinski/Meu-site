@@ -5,3 +5,10 @@ h1{color:#ffffcc; }
      font-size:16 px;
      color:#000033 ;
    }
+
+header {
+  border-bottom: solid 3px #ca9c11 ;
+  padding 10px
+  font-size: 22px;
+  color: white;
+}
