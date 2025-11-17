@@ -2,15 +2,16 @@ body{
   background-color:#fffff; }
 h1{color:#ffffcc; }
    p{
-     font-size:16 px;
+     font-size:16px;
      color:#000033 ;
    }
 
 header {
   border-bottom: solid 3px #990033 ;
-  padding 10px
+  padding: 10px
   font-size: 22px;
   color: white;
 }
+
 
 
